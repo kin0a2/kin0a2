@@ -3,7 +3,7 @@ I'm Kinza , a passionate data scientist with a knack for machine learning and de
 
 
 🔬 **Data Science Enthusiast**
-My journey into the world of data began during my undergraduate years, where I was captivated by the power of numbers to tell compelling stories. Since then, I've honed my skills in data analysis, visualization, and predictive modeling, always eager to explore new datasets and extract meaningful information.
+My journey into the world of data began during my postgraduate years, where I was captivated by the power of numbers to tell compelling stories. Since then, I've honed my skills in data analysis, visualization, and predictive modeling, always eager to explore new datasets and extract meaningful information.
 
 🤖 Machine Learning Aficionado
 Machine learning is where I truly feel at home. From classic algorithms to cutting-edge techniques, I enjoy experimenting with models to tackle real-world challenges. Whether it's building recommendation systems, predicting user behavior, or optimizing business processes, I thrive on the intersection of data and algorithms.
